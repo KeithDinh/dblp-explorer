@@ -1,0 +1,8 @@
+Keyword: a
+Number of Tier: 3
+
+************************************************* ARTICLES CONTAINING KEYWORD *************************************************
+
+ID: 100001334
+Title: Ontologies in HYDRA - Middleware for Ambient Intelligent Devices.
+
