@@ -175,8 +175,10 @@ public class Main {
         writer.close();
         JOptionPane.showMessageDialog(null, "Completed");
 
-        long end = System.currentTimeMillis();
 
+        // **************************************** BENCH MARK ESTIMATION *****************************************************
+
+        long end = System.currentTimeMillis();
         NumberFormat formatter = new DecimalFormat("#0.00000");
         System.out.println("Execution time is " + formatter.format((end - start) / 1000d) + " seconds");
         long afterUsedMem=Runtime.getRuntime().totalMemory()-Runtime.getRuntime().freeMemory();

@@ -29,3 +29,9 @@
 ###	Tier: 15
 #### 		Execution time is 14.55400 seconds
 ####		Memory Used: 19922944bytes = 19.00M
+
+## TEST dblp_papers_v11.txt
+###	Keyword: device
+###	Tier: 3
+#### 		Execution time is 107.30800 seconds
+####		Memory Used: 1041760256bytes = 993.50M

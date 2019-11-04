@@ -1,8 +1,872 @@
-Keyword: intel
-Number of Tier: 15
+Keyword: device
+Number of Tier: 3
 
 ************************************************* ARTICLES CONTAINING KEYWORD *************************************************
 
 ID: 100001334
 Title: Ontologies in HYDRA - Middleware for Ambient Intelligent Devices.
+
+ID: 100028280
+Title: Reducing Test Program Development Time for Memory Devices.
+
+ID: 1000902583
+Title: AEGIS App: Wildfire Information Management for Windows Phone Devices
+
+ID: 100118274
+Title: A Study of the Impact of Mobile Self-Efficacy and Emotional Attachment on Mobile Device Infusion
+
+ID: 100175745
+Title: A Comparison of Optical and Magnetic Storage Devices.
+
+ID: 1003500435
+Title: Understanding Requirements for Textile Input Devices Individually Tailored Interfaces within Home Environments
+
+ID: 100509846
+Title: The Effect of Damping in an Input Device on Human Positioning Performance
+
+ID: 10055121
+Title: NEMOS: Mobile-Agent Based Service Architecture for Lightweight Devices.
+
+ID: 1006152917
+Title: A Decision Support System for Medical Mobile Devices Based on Clinical Guidelines for Tuberculosis
+
+ID: 100715626
+Title: Adaptive Learning Using Moodle And Handheld Devices
+
+ID: 1007254387
+Title: Wireless device authentication using acoustic hardware fingerprints
+
+ID: 100738447
+Title: Modified randomized devices for Simmons' model
+
+ID: 100778362
+Title: Optoelectronic Digital Capture Device Based on Si/C Multilayer Heterostructures
+
+ID: 100849982
+Title: A THEORY-DRIVEN FRAMEWORK FOR CONSUMERS TO ADOPT M-COMMERCE DEVICES
+
+ID: 10091073
+Title: Integration Technologies of Field Devices in Distributed Control and Engineering Systems.
+
+ID: 100923968
+Title: Expert Knowledge Based Design and Verification of Secure Systems with Embedded Devices
+
+ID: 1009642193
+Title: Elements of Properties of User Experience in Cloud Computing Documentation Platform According to Smart Device Screen Size Changes: Focus on Google Docs and Naver Office
+
+ID: 101025192
+Title: A New Humanoid Architecture for Social Interaction between Human and a Robot Expressing Human-Like Emotions Using an Android Mobile Device as Interface
+
+ID: 101047951
+Title: Full-wave electromagnetic simulation of millimeter-wave active devices and circuits
+
+ID: 1010512333
+Title: Manseibashi Reminiscent Window: On-Site AR Exhibition System Using Mobile Devices
+
+ID: 101221907
+Title: An Interactive Device for Exploring Thematically Sorted Artworks
+
+ID: 1012858129
+Title: Analysis of Visual Performance during the Use of Mobile Devices While Walking
+
+ID: 101404976
+Title: Software Tools for the Use of Pointing Devices by Disabled People.
+
+ID: 101502882
+Title: Mobile Network Performance from User Devices: A Longitudinal, Multidimensional Analysis
+
+ID: 101636213
+Title: Waveform Iterative Techniques for Device Transient Simulation on Parallel Machines.
+
+ID: 1016625629
+Title: Diffusion of Feedback: Perceptions and Adoption of Devices in the Residential Market
+
+ID: 101687290
+Title: Interpreting Gestures for Text Entry on Touch Screen Devices.
+
+ID: 1017003995
+Title: Advances on Breathing Based Text Input for Mobile Devices
+
+ID: 101740279
+Title: Interactive Virtual Aquarium with a Smart Device as a Remote User Interface
+
+ID: 101792798
+Title: Secure mechanism for transferring multimedia content over mobile networks through handheld devices.
+
+ID: 101888684
+Title: Retrieving monitoring and accounting information from constrained devices in internet-of-things applications
+
+ID: 101939281
+Title: Energy Efficient Distributed Computing on Mobile Devices
+
+ID: 1019406274
+Title: Vertragliche Absicherung von Bring Your Own Device
+
+ID: 101971015
+Title: A Design-led Research Approach to Contextual Evaluation of Socio-psychological Factors in the Development of Telehealth Devices
+
+ID: 1019836748
+Title: A revisit to the Singh, Horn, Singh and Mangat's randomization device for estimating a rare sensitive attribute using Poisson distribution
+
+ID: 1020181085
+Title: Design and evaluation of a user-level file system for fast storage devices
+
+ID: 1021506181
+Title: Verification of Stereotype on Women Observing Gender Difference on UX of Wearable Device
+
+ID: 1023443233
+Title: CubeMate: A New Communication Device as Non-verbal Interface in a Shared Space
+
+ID: 1023672781
+Title: Typing performance evaluation with multimodal soft keyboard completely integrated in commercial mobile devices
+
+ID: 102475019
+Title: Logic device characterization using computer-aided test and analysis
+
+ID: 1025153857
+Title: CHROMAGRAM: A Real-time Chroma Key Application for Mobile Devices
+
+ID: 1025502897
+Title: Research on Virtual Item Purchase Intention in Taking Part in Mobile Device Games: Taking the Middle and Old Aged Players for Example
+
+ID: 1026134062
+Title: Using Personal Smart Devices as User Clients in a Classroom Response System
+
+ID: 102874617
+Title: Automatic Detection of Atrial Fibrillation for Mobile Devices
+
+ID: 103044395
+Title: Updaticator: Updating Billions of Devices by an Efficient, Scalable and Secure Software Update Distribution over Untrusted Cache-enabled Networks
+
+ID: 1032734772
+Title: Operation Sound Influence on Tablet Device Character Input Operation
+
+ID: 103519800
+Title: Orientation accuracy of a magnetic tracking device for image-guided interventios.
+
+ID: 1041662692
+Title: Visual Prosthesis, Suprachoroidal, and Trans-retinal Devices.
+
+ID: 104529149
+Title: A Fuzzy Controller for a Network Protocol over the IEEE 1394 Device.
+
+ID: 1045392572
+Title: Comparative Analysis of Power Loses in Selected Measurement Devices Used in SMART GRID Systems
+
+ID: 1045393834
+Title: General Bayesian Network in Performing Micro-reality Mining with Mobile Phone Usage Data for Device Personalization
+
+ID: 104624796
+Title: Parallel Dynamic Partition and Adaptive Computation in Semiconductor Device Simulation.
+
+ID: 104681178
+Title: Parameterizable UPnP - Device level SOA with hot-config capabilities.
+
+ID: 104870408
+Title: Classification of disfluent phenomena as fluent communicative devices in specific prosodic contexts
+
+ID: 104874769
+Title: Customized Healthcare Infrastructure Using Privacy Weight Level Based on Smart Device
+
+ID: 104956472
+Title: Two-dimensional Simulation of Semiconductor Technology and Devices.
+
+ID: 105011426
+Title: A Formalism to Define, Assess and Evaluate Player Behaviour in Mobile Device Based Serious Games
+
+ID: 105017677
+Title: A wireless data processing system constructed of SAW-devices and its applications to medical cares.
+
+ID: 105235982
+Title: A Bayesian-Decision Analysis Framework for the Financial Evaluation of Automatic Incident Detection Devices
+
+ID: 105358634
+Title: Metal artifact reduction and image processing of cone-beam computed tomography data for mobile C-arm CT devices
+
+ID: 105372387
+Title: Usability testing medical devices: a practical guide to minimizing risk and maximizing success
+
+ID: 105632907
+Title: On-Chip BIST-Based Diagnosis of Embedded Programmable Logic Cores in System-on-Chip Devices.
+
+ID: 105661815
+Title: uSD Card: a plug&play solution for mobile device to access wireless sensor networks
+
+ID: 105856043
+Title: Generating Peripheral Rhetorical Devices by Consulting a User Model.
+
+ID: 105992830
+Title: How users with RSI review the usability of notebook input devices
+
+ID: 106165120
+Title: The Proliferation of Wireless Devices and its Role in Corporate Governance.
+
+ID: 106186124
+Title: Microprocessor Device to Control Lights Using LED Communications for Body Area Networks
+
+ID: 106300543
+Title: A Networkless Data Exchange and Control Mechanism for Virtual Testbed Devices
+
+ID: 106392966
+Title: Remote Linear Pressure Sensing Vibration Device for Biomedical Applications.
+
+ID: 10697750
+Title: An Interoperability Mechanism for Transparency of UPnP AV Devices.
+
+ID: 106987227
+Title: Evalution/Testing of Compact Device Model Implementation.
+
+ID: 107499079
+Title: An Armband-Type Touch-Free Space Input Device for HCI
+
+ID: 107508857
+Title: Investigation of Traceability within a Medical Device Organization
+
+ID: 108231352
+Title: Audio Effect for Highlighting Speaker’s Voice Corrupted by Background Noise on Portable Digital Imaging Devices
+
+ID: 1083891540
+Title: The Key Success Factors of Wearable Computing Devices: An User-Centricity Perspective
+
+ID: 108431224
+Title: Development of a Family of Multi-Core Devices Using Hierarchical Abstraction.
+
+ID: 108603368
+Title: Interaction Devices for Coordinating Cooperative Distributed
+
+ID: 108657497
+Title: The New Text and Graphical Input Device: Compact Biometrical Data Acquisition.
+
+ID: 108797482
+Title: TIDE: Lightweight Device Composition for Enhancing Tabletop Environments with Smartphone Applications
+
+ID: 10894449
+Title: Embedded Cantonese TTS for Multi-Device Access to Web Content
+
+ID: 109187001
+Title: Capturing the distinction between task and device errors in a formal model of user behaviour
+
+ID: 109221490
+Title: The Integration of PACS, Digital Radiography, Nuclear Medicine and Ultrasound Devices: An Opportunity and a Challenge for the General Hospital
+
+ID: 109380251
+Title: An ungrounded pulling force feedback device using periodical vibration-impact
+
+ID: 109462823
+Title: A haptic device for a web-based training system for interventional radiology procedures.
+
+ID: 109530579
+Title: Can ubiquitous devices utilising reminiscence therapy be used to promote well-being in dementia patients? an exploratory study
+
+ID: 109646171
+Title: An Applied Agent-Based Model for Path-Planning on a Mobile Device
+
+ID: 109665797
+Title: The use of spoken language in the evaluation of assistive listening devices.
+
+ID: 109795093
+Title: Towards distributed collaborative workflow management for mobile devices
+
+ID: 110148277
+Title: Integrating RFID and Security Devices for an Innovative System to Manage Classified Documents
+
+ID: 110211851
+Title: Location-Aware Voice-Enabled Web Services for Mobile Devices.
+
+ID: 1105795908
+Title: Failure analysis on recovering low resistive via in mixed-mode device
+
+ID: 110857796
+Title: A Trading System for Bidding Multimedia Contents on Mobile Devices
+
+ID: 111151941
+Title: Information Security Policies for Networkable Devices
+
+ID: 1111925461
+Title: Creating Interactive Content in Android Devices: The Mokap Hackaton
+
+ID: 111214616
+Title: Design and implementation of firewire device driver on FreeBSD
+
+ID: 111293129
+Title: Mobile system for medical control of chronic diseases through intelligent devices
+
+ID: 111656631
+Title: Perceptual Evaluation of the Passive/Active Torque and Stiffness Asymmetry of a Hybrid Haptic Device
+
+ID: 111824005
+Title: Condroid: using an android phone as a 3D input device for a multiuser 3D drawing application setup in a collaborative virtual environment over the web
+
+ID: 112103383
+Title: Co-design in synthetic biology: a system-level analysis of the development of an environmental sensing device.
+
+ID: 1122477482
+Title: Mobile Application Installation Influences: Have Mobile Device Users Become Desensitized to Excessive Permission Requests?
+
+ID: 1122835993
+Title: An electronic device to record consensual reflex in human pupil.
+
+ID: 112312130
+Title: Device-Level Majority von Neumann Multiplexing
+
+ID: 112494323
+Title: Robust speech recognition for mobile devices in car noise.
+
+ID: 11265993
+Title: IMPROVING DIRECTORY-LESS WLAN POSITIONING BY DEVICE WHISPERING
+
+ID: 1126979639
+Title: Sign Detection Based Text Localization in Mobile Device Captured Scene Images
+
+ID: 1127811576
+Title: Design and Implementation of an Easy-Setup Framework for Personalized Cloud Device
+
+ID: 112831793
+Title: Storage Provisioning for Mobile Devices to Enable Faster Internet Access.
+
+ID: 112874731
+Title: A note on biometrics-based authentication with portable device
+
+ID: 113150094
+Title: Top and Bottom Gate Polymeric Thin Film Transistor Analysis through Two Dimensional Numerical Device Simulation
+
+ID: 1132158502
+Title: A Study on Context Information Collection for Personal Mobile Device Identification in BYOD and Smart Work Environment
+
+ID: 113275955
+Title: Investigating the Influence of Security, Privacy, and Legal Concerns on Employees' Intention to Use BYOD Mobile Devices.
+
+ID: 1133472248
+Title: Perioperative Smartphone Apps and Devices for Patient-Centered Care
+
+ID: 1134471135
+Title: Continuous Context-Aware Device Comfort Evaluation Method
+
+ID: 1134721326
+Title: Protection Profile for Secure Sensitive Information System on Mobile Devices
+
+ID: 113502393
+Title: Context Modeling for Device- and Location-Aware Mobile Web Applications.
+
+ID: 1139121664
+Title: STETS: A novel energy-efficient time synchronization scheme based on embedded networking devices
+
+ID: 1140716907
+Title: ULRAS: Ultra-Lightweight RFID Authentication Scheme for Mobile Device
+
+ID: 1143719936
+Title: Preliminary Guidelines to Build a Wearable Health Monitoring System for Patients: Focusing on a Wearable Device with a Wig
+
+ID: 114374585
+Title: Smart Dielectric Elastomers and Their Potential for Biodevices.
+
+ID: 114425335
+Title: Putting the Classroom in the Cloud with Virtual Desktops and Bring-Your-Own-Device
+
+ID: 11477931
+Title: Navigating Dynamically-Generated High Quality Maps on Tilt-Sensing Mobile Devices.
+
+ID: 114796800
+Title: Emotion Recognition for Mobile Devices with a Potential Use in Serious Games for Autism Spectrum Disorder
+
+ID: 1148053224
+Title: A Single-Handed Partial Zooming Technique for Touch-Screen Mobile Devices
+
+ID: 114908214
+Title: Viability of mobile devices for training purposes
+
+ID: 115074688
+Title: Direct Laser Writing of Neural Tissue Engineering Scaffolds for Biohybrid Devices
+
+ID: 115104760
+Title: High-Level Design for a Secure Mobile Device Management System
+
+ID: 1153992744
+Title: Micro- and Macrointegration Profiles for Medical Devices and Medical IT Systems.
+
+ID: 115452621
+Title: Management System Integration Supported on Virtual Reality Technology: The Building Lighting Devices
+
+ID: 115540422
+Title: Development of an Annotation-Based Classroom Activities Support Environment Using Digital Appliance, Mobile Device and PC
+
+ID: 115734603
+Title: The Design of Signature Selection for Protecting Illegal Outflow of Sensitive Information in Mobile Device
+
+ID: 115789336
+Title: Simulation of GaAs MESFET devices using TCAD tools.
+
+ID: 1158938595
+Title: Product-based Safety Certification for Medical Devices Embedded Software.
+
+ID: 1161892769
+Title: Durable Plug and Play Device for Bed Tele-Monitoring
+
+ID: 116210601
+Title: Measuring User Acceptance of Wearable Symbiotic Devices: Validation Study Across Application Scenarios
+
+ID: 116233955
+Title: Formal Verification of Secure User Mode Device Execution with DMA
+
+ID: 116312453
+Title: m.Site: efficient content adaptation for mobile devices
+
+ID: 1163161681
+Title: From Apps to Liquid Multi-Device Software.
+
+ID: 1163810253
+Title: Interchanging Cloud Providers Instances Through Ubiquitous Devices
+
+ID: 116478626
+Title: An Investigation Into Access Control For Mobile Devices.
+
+ID: 116560575
+Title: Securing Kiosk using Mobile Devices coupled with Visual Inspection
+
+ID: 116771452
+Title: AC Powder Electroluminescence (ACPEL) and Devices.
+
+ID: 1168742924
+Title: A fuzzy system to support the configuration of baggage screening devices at an airport
+
+ID: 117037289
+Title: Architecting Infrastructures for Cloud-Enabled Mobile Devices
+
+ID: 117242985
+Title: Subjective Assessment of Migrating Vibration Corresponding to Scroll Action on a Hand-Held Device
+
+ID: 117274567
+Title: Web form page in mobile devices: Optimization of layout with a simple genetic algorithm
+
+ID: 117311519
+Title: Energy Characterization of Data Mining Algorithms on Mobile Devices
+
+ID: 117322604
+Title: Multicore Devices: A New Generation of Reconfigurable Architectures.
+
+ID: 117377404
+Title: A MOBILE BUSINESS PROCESS DEPLOYMENT FRAMEWORK FOR DEVICE INDEPENDENCE AND CONTEXT-AWARE ENVIRONMENTS
+
+ID: 117422556
+Title: Developing a VR-based Projectile System using Haptic Device for Learning Physics
+
+ID: 117516871
+Title: A comparison of motion and keypad interaction for fine manipulation on mobile devices
+
+ID: 117544697
+Title: Development of an impact-resonant actuator for mobile devices
+
+ID: 1175642698
+Title: A new device combining mechanical stimulation of plantar sole and Achilles’ tendon to alleviate the consequences of muscle deconditioning
+
+ID: 117670540
+Title: Collection of empirical data for standardization of generic vocabularies in speech driven ICT devices and services.
+
+ID: 1178198511
+Title: A systematic review on multi-device inclusive environments
+
+ID: 117859596
+Title: Usage pattern-based prefetching: quick application launch on mobile devices
+
+ID: 1179791888
+Title: Guest Editorial: Multimedia Applications for Smart device and Equipment
+
+ID: 118028135
+Title: An Application in Bank Credit Risk Management System Employing a BP Neural Network Based on sfloat24 Custom Math Library Using a Low Cost FPGA Device
+
+ID: 1180799124
+Title: A 1.55-µm Waveband Optical Absorption Characterization of an Electro-Absorption Device with a Highly Stacked InAs/InGaAlAs Quantum Dot Structure
+
+ID: 118080102
+Title: Efficient Intrusion Detection for Mobile Devices Using Spatio-temporal Mobility Patterns
+
+ID: 118149057
+Title: Robust Processing of Color Target Measurements for Device Characterization.
+
+ID: 1182985609
+Title: Light Memory Operation Based on a Double Pin SiC Device
+
+ID: 118389920
+Title: On the Empirical Analysis of Handover Latency Reduction by Means of Multi-RAT Devices: A Prototypical Approach
+
+ID: 1184351409
+Title: Device mismatch in a neuromorphic system implements random features for regression
+
+ID: 1185229035
+Title: A Visual One-Time Password Authentication Scheme Using Mobile Devices
+
+ID: 118537229
+Title: The human-machine interface challenges of using virtual environment (VE) displays aboard centrifuge devices
+
+ID: 118686482
+Title: Evaluation of effects of textures attached to mobile devices on pointing accuracy
+
+ID: 118701385
+Title: A Diffraction Based Modified Exponential Model for Device-Free Localization with RSS Measurements
+
+ID: 118721736
+Title: End-users’ Integration of Applications and Devices: A Cooperation Based Approach
+
+ID: 118725381
+Title: Novel Modalities for Bimanual Scrolling on Tablet Devices
+
+ID: 1189273455
+Title: InfiniBand Verbs on GPU: a case study of controlling an InfiniBand network device from the GPU
+
+ID: 1189763451
+Title: Hybrid Instruction Method of Brush Strokes with Haptic Device.
+
+ID: 1189868418
+Title: Software Process Improvement and Roadmapping – A Roadmap for Implementing IEC 62304 in Organizations Developing and Maintaining Medical Device Software
+
+ID: 119071225
+Title: User Classification and Authentication for Mobile Device Based on Gesture Recognition
+
+ID: 1190756082
+Title: Network and device forensic analysis of Android social-messaging applications
+
+ID: 1191640954
+Title: Design space exploration for device and architectural heterogeneity in chip-multiprocessors
+
+ID: 119383752
+Title: Model-Based Mutation Testing of an Industrial Measurement Device
+
+ID: 119533164
+Title: High-Entropy visual identification for touch screen devices
+
+ID: 119906765
+Title: Drivers for the Adoption of Mobile Device Management in Organizations
+
+ID: 11994984
+Title: A 3D SIMULATION OF A GAME OF BILLIARDS USING A HAPTIC DEVICE
+
+ID: 119979962
+Title: MOEMS devices and their applications to optical telecommunication systems
+
+ID: 11998466
+Title: Turnector: Tangible ControlWidgets For Capacitive Touchscreen Devices
+
+ID: 120026660
+Title: A prototype device for concealed weapon detection using IR and CMOS cameras fast image fusion
+
+ID: 1200926
+Title: Gesture Components for Natural Interaction with In-Car Devices
+
+ID: 120097664
+Title: Design of cochlear implant device for transmitting voice pitch information in speech sound of asian languages.
+
+ID: 12010653
+Title: Generating One-Time Passwords by Cheap and Fast Devices.
+
+ID: 1202444655
+Title: Mdaak: A Flexible and Efficient Framework for Direct Anonymous Attestation on Mobile Devices
+
+ID: 120557744
+Title: Pedestrian navigation with a mobile device: strategy use and environmental learning
+
+ID: 1208197017
+Title: Image Adaptation Based on Attention Model for Small-Form-Factor Device.
+
+ID: 1208857234
+Title: Device Analyzer: Understanding Smartphone Usage
+
+ID: 120969640
+Title: Home Control via Mobile Devices: State of the Art and HCI Challenges under the Perspective of Diversity
+
+ID: 12113573
+Title: An integrated environment to aid knowledge exchange and collaboration using mobile devices in a healthcare context
+
+ID: 121158018
+Title: Embedded Microcontroller for Performance Analysis of Mechatronic Devices.
+
+ID: 121457344
+Title: AmbiStream: a middleware for multimedia streaming on heterogeneous mobile devices
+
+ID: 121543374
+Title: A Cross-Modal Electronic Travel Aid Device
+
+ID: 121624356
+Title: The Gait Sensing Disc - A Compact Locomotion Device for the Virtual Environment.
+
+ID: 121755537
+Title: SOAP and CORBA productivity comparison for resourcelimited mobile devices.
+
+ID: 1219675600
+Title: The Cellular Device Machine Development System for Modeling Biology on the Computer.
+
+ID: 1222051491
+Title: The Monitoring of Information Security of Remote Devices of Wireless Networks
+
+ID: 122223393
+Title: Investigating the Role of Handheld devices in the accomplishment of Grid-Enabled Analysis Environment
+
+ID: 1222282241
+Title: Computer Input Devices: Design for Well-Being and Productivity
+
+ID: 1222462579
+Title: 3D SPATIAL DATA MINING ON DOCUMENT SETS FOR THE DISCOVERY OF FAILURE CAUSES IN COMPLEX TECHNICAL DEVICES
+
+ID: 122291687
+Title: Configuration and Management of Networked Embedded Devices.
+
+ID: 122368222
+Title: Making I/O Virtualization Easy with Device Files
+
+ID: 122375438
+Title: Distributed deterministic broadcasting in wireless networks of weak devices
+
+ID: 122387815
+Title: Formal Device and Programming Model for a Serial Interface.
+
+ID: 122389516
+Title: Real-Time head pose estimation for mobile devices
+
+ID: 122505288
+Title: Designing a Mathematically Verified I2C Device Driver Using ASD
+
+ID: 122627397
+Title: Finger Tracking and Bare-hand Posture as an Input Device Using Augmented Reality.
+
+ID: 122957576
+Title: Development of a Mixed Reality Device for Interactive On-Site Geo-visualization.
+
+ID: 123169434
+Title: BIODEVICES BASED ON SHAPE-MEMORY POLYMERS - Current Capabilities and Challenges
+
+ID: 123282965
+Title: The Negative Impact of Mobile Devices on Niche Product Consumption
+
+ID: 12328569
+Title: The YoYo: A Handheld Device Combining Elastic and Isotonic Input.
+
+ID: 123316897
+Title: Blocking Advertisements on Android Devices Using Monitoring Techniques
+
+ID: 12343306
+Title: A cryptographic processor for low-resource devices: canning ECDSA and AES like sardines
+
+ID: 123436215
+Title: A Novel Locomotion Interface with Independent Planar and Footpad Devices for Virtual Walking
+
+ID: 123575808
+Title: Symbol Comprehension in Different Countries: Experience Gained from Medical Device Area
+
+ID: 123667313
+Title: Adapting Content for Mobile Devices in Heterogeneous Collaboration Environments.
+
+ID: 12384780
+Title: Investigating Forensic Software Solutions to Acquire Information from Mobile Device.
+
+ID: 1239085884
+Title: Exploring the Use of Mobile Devices for Knowledge Sharing in Healthcare: A Hospital Case Study
+
+ID: 124047849
+Title: MERCURY: User Centric Device and Service Processing
+
+ID: 1240767207
+Title: Where to Start? Exploring the Efficiency of Translation Movements on Multitouch Devices
+
+ID: 124154476
+Title: An autonomous DNA nanodevice captures pH maps of living cells in culture and in vivo
+
+ID: 1246469193
+Title: Towards a New Personal Information Technology Acceptance Model: Conceptualization and Empirical Evidence from a Bring Your Own Device Dataset
+
+ID: 124803980
+Title: A Statistical Model for Higher Order DPA on Masked Devices
+
+ID: 1249622
+Title: Multi-view Passive Acquisition Device for 3D Face Recognition.
+
+ID: 124990333
+Title: Evaluating Tactile-Acoustic Devices for Enhanced Driver Awareness and Safety: An Exploration of Tactile Perception and Response Time to Emergency Vehicle Sirens
+
+ID: 12499785
+Title: Empowering People through Mobile Devices for Smarter Places
+
+ID: 125082349
+Title: MoKa: A Wireless Internet Application for Delivering Mobile Karaoke on UMTS Devices.
+
+ID: 125098301
+Title: A Model-Based Development Method for Device Drivers.
+
+ID: 1253485236
+Title: Pervasive verification of an OS microkernel: inline assembly, memory consumption, concurrent devices
+
+ID: 125386510
+Title: Automated Generation of Device Test Software.
+
+ID: 125430326
+Title: Data Services for Wireless Devices: from laptops to PDA's and From GSM to GPRS.
+
+ID: 125660632
+Title: Privacy-preserving location tracking of lost or stolen devices: cryptographic techniques and replacing trusted third parties with DHTs
+
+ID: 125835183
+Title: Patient empowerment and visualisation on mobile devices
+
+ID: 126098364
+Title: A LOCATION AND BANDWIDTH AWARE P2P VIDEO ON DEMAND SYSTEM FOR MOBILE DEVICES
+
+ID: 126361580
+Title: Smart blueprints: automatically generated maps of homes and the devices within them
+
+ID: 1263683653
+Title: A Study of Graphical Password for Mobile Devices
+
+ID: 126390057
+Title: Device driver abstraction for multithreaded sensor network operating systems
+
+ID: 126453985
+Title: Radiation Control on Multi-Loudspeaker Device : La Timée
+
+ID: 126603661
+Title: Modelling and Trials of Pyroelectric Sensors for Improving its Application for Biodevices.
+
+ID: 126854167
+Title: Second Hand Technostress and its Determinants in the Context of Mobile Device Interruptions in Work Meetings
+
+ID: 1268873312
+Title: On the Performance Evaluation of a Novel Offloading-Based Energy Conservation Mechanism for Wireless Devices
+
+ID: 1269801495
+Title: Text Touching Effects in Active Reading: The Impact of the Use of a Touch-Based Tablet Device
+
+ID: 1270665619
+Title: Wearable 3DOF Substitutive Force Display Device Based on Frictional Vibrotactile Phantom Sensation
+
+ID: 12732279
+Title: A Client-Server Transactional Storage Device.
+
+ID: 1273345
+Title: Microfluidic electrophysiological device for genetic and chemical biology screening of nematodes
+
+ID: 127342513
+Title: Photonic Devices for Telecommunications: G. Guekos.
+
+ID: 1273689985
+Title: A virtual training system using a force feedback haptic device for oral implantology
+
+ID: 127488161
+Title: Ontology-Based Device Configuration and Management for Smart Homes
+
+ID: 127489906
+Title: Issues on Multi-Device Multi-Player Gaming.
+
+ID: 12753035
+Title: Unified Performance Authoring Tool for Heterogeneous Devices and Protocols
+
+ID: 127580149
+Title: Developmentally appropriate intelligent spatial tutoring for mobile devices
+
+ID: 127667544
+Title: An Inline Monitoring System for .NET Mobile Devices
+
+ID: 12771335
+Title: Output Devices and Techniques.
+
+ID: 12774558
+Title: A MULTI-LAYERED MICROFLUIDIC DEVICE FOR MAGNETOPHORETIC CELL SEPARATION
+
+ID: 128142837
+Title: Supporting Technical Customer Services with Mobile Devices: Towards an Integrated Information System Architecture
+
+ID: 128156508
+Title: Enhancing Device Test Programming Productivity: The CATalyst Automated Test Program Generator.
+
+ID: 128513117
+Title: Wrist-Worn Fall Detection Device - Development and Preliminary Evaluation.
+
+ID: 128621856
+Title: Interworking Between X.25, X.21, and ISDN Devices.
+
+ID: 128631881
+Title: An Evaluation of Behavioural Profiling on Mobile Devices
+
+ID: 128702849
+Title: Synchronous Measuring Device and Its Operating Method for Air Fuel Ratio of CNG Engines
+
+ID: 128799357
+Title: Unifying events from multiple devices for interpreting user intentions through natural gestures
+
+ID: 128962843
+Title: Adaptive Network for Multiprocessing in Programmable Logic Devices.
+
+ID: 129063644
+Title: Poster Abstract: Visualization and Monitoring Tool for Sensor Devices
+
+ID: 129242511
+Title: Mobile Devices as Substitute or Supplement to Traditional Information Sources: City Tourists, Mobile Guides and GPS navigation
+
+
+************************************************* Tier 1: *************************************************
+
+ID: 101604340
+Title: Investigating Information Systems Infusion and the Moderating Role of Habit: A User Empowerment Perspective
+
+ID: 107805170
+Title: Investigating Information System Infusion At The Individual Level: Re-Conceptualisation And Operationalization
+
+ID: 1145720035
+Title: On stratified randomized response sampling
+
+ID: 1177700017
+Title: Ratio imputation method for handling item-nonresponse in Eichhorn model
+
+ID: 125767280
+Title: Goal-based generation of motivational expressions in a learning environment
+
+ID: 120280574
+Title: CU VOCAL: corpus-based syllable concatenation for Chinese speech synthesis across domains and dialects.
+
+ID: 113657386
+Title: Revising mental models to accommodate expectation failures in human-computer dialogues
+
+ID: 111609055
+Title: A Formal Model for Soft Enforcement: Influencing the Decision-Maker
+
+ID: 105621458
+Title: User interface framework for ambient intelligence platforms
+
+ID: 109159200
+Title: Supportive adaptive user interfaces inside and outside the home
+
+ID: 105846125
+Title: Incremental Refinement Checking for Test Case Generation
+
+ID: 113451589
+Title: Mapping UML to labeled transition systems for test-case generation: a translation via object-oriented action systems
+
+ID: 11550018
+Title: Enterprise App Stores for Mobile Applications - Development of a Benefits Framework
+
+ID: 113275955
+Title: Investigating the Influence of Security, Privacy, and Legal Concerns on Employees' Intention to Use BYOD Mobile Devices.
+
+ID: 1233303217
+Title: SQUEEZY: Extending a Multi-touch Screen with Force Sensing Objects for Controlling Articulatory Synthesis
+
+ID: 111871899
+Title: BYOD – The Next Big Thing in Recruiting? Examining the Determinants of BYOD Service Adoption Behavior from the Perspective of Future Employees
+
+ID: 115215535
+Title: Love at First Sight or Sustained Effect? The Role of Perceived Affective Quality on Users' Cognitive Reactions to Information Technology
+
+
+************************************************* Tier 2: *************************************************
+
+ID: 12261574
+Title: ISIS: A learning system with combined interaction and delegation dialogs
+
+ID: 103522650
+Title: Game Theory Meets Information Security Management
+
+
+************************************************* Tier 3: *************************************************
+
+ID: 124159830
+Title: Micro-prosodic control in cantonese text-to-speech synthesis.
+
+ID: 110688484
+Title: Payoffs, Intensionality and Abstraction in Games
 
