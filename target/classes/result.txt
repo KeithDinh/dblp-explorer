@@ -1,5 +1,5 @@
-Keyword: a
-Number of Tier: 3
+Keyword: intel
+Number of Tier: 15
 
 ************************************************* ARTICLES CONTAINING KEYWORD *************************************************
 

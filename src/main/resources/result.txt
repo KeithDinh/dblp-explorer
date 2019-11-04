@@ -1,6 +1,33 @@
 Keyword: app
-Number of Tier: 3
+Number of Tier: 50
 
 ************************************************* ARTICLES CONTAINING KEYWORD *************************************************
 
-No Article Found
+ID: 1000018889
+Title: Remote Policy Enforcement for Trusted Application Execution in Mobile Environments
+
+ID: 10000571
+Title: The GAME Algorithm Applied to Complex Fractionated Atrial Electrograms Data Set
+
+ID: 100014528
+Title: Applying Soft Computing Technologies for Implementing Privacy-Aware Systems
+
+ID: 1000153461
+Title: User Recognition and Preference of App Icon Stylization Design on the Smartphone
+
+ID: 1000228583
+Title: Making Context Aware Decision from Uncertain Information in a Smart Home: A Markov Logic Network Approach
+
+ID: 100025968
+Title: Multilayer Optimization Approach for Fuzzy Systems
+
+ID: 100028214
+Title: Information systems design approach integrating data and transactions
+
+ID: 1000461908
+Title: A Grounded Theory Approach for Designing Communication and Collaboration System for Visually Impaired Chess Players
+
+
+************************************************* Tier 1: *************************************************
+
+Not Found

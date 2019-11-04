@@ -7,6 +7,8 @@ import org.json.simple.parser.ParseException;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.*;
+import java.text.DecimalFormat;
+import java.text.NumberFormat;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -15,6 +17,8 @@ import java.util.regex.Pattern;
 public class Main {
 
     public static void main(String[] args) throws IOException {
+        long beforeUsedMem=Runtime.getRuntime().totalMemory()-Runtime.getRuntime().freeMemory();
+        long start = System.currentTimeMillis();
         new File("src//main//resources//result.txt").delete();
 
         // **************************************** READ INPUT *****************************************************
@@ -140,16 +144,22 @@ public class Main {
             for (int s = 0; s < size; s++) {
                 String search_id = current_ref.remove();
                 for (int j = 0; j < list.size(); j++) {
-                    if (((String) list.get(j).get("id")).equals(search_id)) {
+                    if (((String) list.get(j).get("id")).equals(search_id))
+                    {
                         isFound = true;
+
                         writer.println("ID: " + search_id);
                         writer.println("Title: " + ((String) list.get(j).get("title")) + "\n");
-                        if (list.get(j).containsKey("references")) {
+
+
+                        if (list.get(j).containsKey("references"))
+                        {
                             JSONArray refs = (JSONArray) list.get(j).get("references");
                             for (int k = 0; k < refs.size(); k++) {
                                 current_ref.add(refs.get(k).toString());
                             }
                         }
+                        list.remove(j);
                         break;
                     }
                 }
@@ -164,5 +174,13 @@ public class Main {
         reader.close();
         writer.close();
         JOptionPane.showMessageDialog(null, "Completed");
+
+        long end = System.currentTimeMillis();
+
+        NumberFormat formatter = new DecimalFormat("#0.00000");
+        System.out.println("Execution time is " + formatter.format((end - start) / 1000d) + " seconds");
+        long afterUsedMem=Runtime.getRuntime().totalMemory()-Runtime.getRuntime().freeMemory();
+        long actualMemUsed=afterUsedMem-beforeUsedMem;
+        System.out.println("Memory Used: " + actualMemUsed+"bytes = "+new java.text.DecimalFormat("#.00").format(actualMemUsed/(1024*1024.0))+"M");
     }
 }
